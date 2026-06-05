@@ -1,0 +1,15 @@
+.next
+node_modules
+.env
+.env.local
+npm-debug.log*
+coverage
+dist
+.next-dev
+.next-prod
+*.tsbuildinfo
+data/chrome-profile-test/
+data/edge-profile-test/
+data/solve-files/
+data/solve-history.json
+
